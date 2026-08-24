@@ -92,7 +92,6 @@ def build_story(md: str):
             ListFlowable(
                 items,
                 bulletType="bullet",
-                start="bullet",
                 leftIndent=14,
                 bulletFontSize=8,
                 bulletOffsetY=1,
